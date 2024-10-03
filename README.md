@@ -19,7 +19,7 @@ This project provides a simple script to post messages to both Bluesky and Masto
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/looprock/splitposter.git
    cd splitposter
    ```
@@ -28,7 +28,8 @@ This project provides a simple script to post messages to both Bluesky and Masto
 
 This project is based on uv. You can create your virtual environment by navigating to the repo folder and running:
 
-   ```uv sync
+   ```
+   uv sync
    ```
 
 3. Create a `.env` file in the root directory and add your credentials:
